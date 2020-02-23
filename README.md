@@ -66,3 +66,15 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+### Stack Used 
+
+1. React-redux
+2. Boostrap
+
+### npm packegs
+
+1. npm install react-redux
+2. npm install --save bootstrap
+3. npm install react-router-dom
